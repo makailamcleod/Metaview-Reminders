@@ -4347,6 +4347,36 @@
     "channelId": "U09NY2GT0QH",
     "messageTs": "1792688879.596859",
     "sentAt": "2026-10-22T17:08:05.541Z",
+    "reason": "other",
+    "replyRaw": "Interview was rescheduled"
+  },
+  {
+    "id": "510174936-u0948lj7jer",
+    "conversationId": 510174936,
+    "interviewerName": "Shyamal Buch",
+    "interviewerSlackId": "U0948LJ7JER",
+    "department": "Training Compute",
+    "eventName": "Luma & You",
+    "startTime": "2026-10-23 21:00:00+00:00",
+    "date": "Oct 23",
+    "channelId": "U0948LJ7JER",
+    "messageTs": "1793034395.880709",
+    "sentAt": "2026-10-26T17:06:44.325Z",
+    "reason": null,
+    "replyRaw": null
+  },
+  {
+    "id": "510174936-amit-lumalabs-ai",
+    "conversationId": 510174936,
+    "interviewerName": "Amit Jain",
+    "interviewerSlackId": null,
+    "department": "Training Compute",
+    "eventName": "Luma & You",
+    "startTime": "2026-10-23 21:00:00+00:00",
+    "date": "Oct 23",
+    "channelId": null,
+    "messageTs": null,
+    "sentAt": null,
     "reason": null,
     "replyRaw": null
   }
