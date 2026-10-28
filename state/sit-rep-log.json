@@ -5534,5 +5534,50 @@
     "sentAt": "2026-10-27T17:12:54.604Z",
     "reason": null,
     "replyRaw": null
+  },
+  {
+    "id": "504867404-u09n9s0pxh8",
+    "conversationId": 504867404,
+    "interviewerName": "Brennan Lowe",
+    "interviewerSlackId": "U09N9S0PXH8",
+    "department": "FDC",
+    "eventName": "Case Study Exercise",
+    "startTime": "2026-10-27 18:00:00+00:00",
+    "date": "Oct 27",
+    "channelId": "U09N9S0PXH8",
+    "messageTs": "1793207710.593699",
+    "sentAt": "2026-10-28T17:15:21Z",
+    "reason": null,
+    "replyRaw": null
+  },
+  {
+    "id": "504867404-u0b8wlagq05",
+    "conversationId": 504867404,
+    "interviewerName": "Carola Dixon",
+    "interviewerSlackId": "U0B8WLAGQ05",
+    "department": "FDC",
+    "eventName": "Case Study Exercise",
+    "startTime": "2026-10-27 18:00:00+00:00",
+    "date": "Oct 27",
+    "channelId": "U0B8WLAGQ05",
+    "messageTs": "1793207713.023679",
+    "sentAt": "2026-10-28T17:15:21Z",
+    "reason": null,
+    "replyRaw": null
+  },
+  {
+    "id": "504867404-u09ny2gt0qh",
+    "conversationId": 504867404,
+    "interviewerName": "Cherice Whewell",
+    "interviewerSlackId": "U09NY2GT0QH",
+    "department": "FDC",
+    "eventName": "Case Study Exercise",
+    "startTime": "2026-10-27 18:00:00+00:00",
+    "date": "Oct 27",
+    "channelId": "U09NY2GT0QH",
+    "messageTs": "1793207715.242729",
+    "sentAt": "2026-10-28T17:15:21Z",
+    "reason": null,
+    "replyRaw": null
   }
 ]
