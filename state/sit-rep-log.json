@@ -5579,5 +5579,20 @@
     "sentAt": "2026-10-28T17:15:21Z",
     "reason": null,
     "replyRaw": null
+  },
+  {
+    "id": "511712023-u04932wgge8",
+    "conversationId": 511712023,
+    "interviewerName": "Thomas Neff",
+    "interviewerSlackId": "U04932WGGE8",
+    "department": "Inference Compute",
+    "eventName": "Hiring Manager Screen",
+    "startTime": "2026-10-28 17:00:00+00:00",
+    "date": "Oct 28",
+    "channelId": "U04932WGGE8",
+    "messageTs": "1793293928.784289",
+    "sentAt": "2026-10-29T17:12:13.205Z",
+    "reason": null,
+    "replyRaw": null
   }
 ]
