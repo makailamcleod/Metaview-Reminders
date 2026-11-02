@@ -5594,5 +5594,35 @@
     "sentAt": "2026-10-29T17:12:13.205Z",
     "reason": null,
     "replyRaw": null
+  },
+  {
+    "id": "514706851-u0b4338amge",
+    "conversationId": 514706851,
+    "interviewerName": "Julia Harris",
+    "interviewerSlackId": "U0B4338AMGE",
+    "department": "Dream Lab",
+    "eventName": "Hiring Manager Screen",
+    "startTime": "2026-10-30 23:00:00+00:00",
+    "date": "Oct 30",
+    "channelId": "U0B4338AMGE",
+    "messageTs": "1793643236.267399",
+    "sentAt": "2026-11-02T18:14:00.619Z",
+    "reason": null,
+    "replyRaw": null
+  },
+  {
+    "id": "514706851-u0ab3t3jhkr",
+    "conversationId": 514706851,
+    "interviewerName": "Josh DiCarlo",
+    "interviewerSlackId": "U0AB3T3JHKR",
+    "department": "Dream Lab",
+    "eventName": "Hiring Manager Screen",
+    "startTime": "2026-10-30 23:00:00+00:00",
+    "date": "Oct 30",
+    "channelId": "U0AB3T3JHKR",
+    "messageTs": "1793643236.704479",
+    "sentAt": "2026-11-02T18:14:00.619Z",
+    "reason": null,
+    "replyRaw": null
   }
 ]
