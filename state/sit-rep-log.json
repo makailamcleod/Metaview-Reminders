@@ -5502,8 +5502,8 @@
     "channelId": "U04932WGGE8",
     "messageTs": "1793121170.463049",
     "sentAt": "2026-10-27T17:12:54.604Z",
-    "reason": null,
-    "replyRaw": null
+    "reason": "other",
+    "replyRaw": "These were rescheduled"
   },
   {
     "id": "510302493-u04932wgge8",
@@ -5517,8 +5517,8 @@
     "channelId": "U04932WGGE8",
     "messageTs": "1793121170.463049",
     "sentAt": "2026-10-27T17:12:54.604Z",
-    "reason": null,
-    "replyRaw": null
+    "reason": "other",
+    "replyRaw": "These were rescheduled"
   },
   {
     "id": "510174943-u04932wgge8",
@@ -5532,8 +5532,8 @@
     "channelId": "U04932WGGE8",
     "messageTs": "1793121170.463049",
     "sentAt": "2026-10-27T17:12:54.604Z",
-    "reason": null,
-    "replyRaw": null
+    "reason": "other",
+    "replyRaw": "These were rescheduled"
   },
   {
     "id": "504867404-u09n9s0pxh8",
@@ -5562,8 +5562,8 @@
     "channelId": "U0B8WLAGQ05",
     "messageTs": "1793207713.023679",
     "sentAt": "2026-10-28T17:15:21Z",
-    "reason": null,
-    "replyRaw": null
+    "reason": "other",
+    "replyRaw": "Hi Makaila! I wasn't the key person running this interview but I don't remember ever seeing a metaview bot"
   },
   {
     "id": "504867404-u09ny2gt0qh",
@@ -5577,8 +5577,8 @@
     "channelId": "U09NY2GT0QH",
     "messageTs": "1793207715.242729",
     "sentAt": "2026-10-28T17:15:21Z",
-    "reason": null,
-    "replyRaw": null
+    "reason": "other",
+    "replyRaw": "This was moved"
   },
   {
     "id": "511712023-u04932wgge8",
@@ -5592,8 +5592,8 @@
     "channelId": "U04932WGGE8",
     "messageTs": "1793293928.784289",
     "sentAt": "2026-10-29T17:12:13.205Z",
-    "reason": null,
-    "replyRaw": null
+    "reason": "other",
+    "replyRaw": "was rescheduled"
   },
   {
     "id": "514706851-u0b4338amge",
