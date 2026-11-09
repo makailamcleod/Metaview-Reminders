@@ -5684,5 +5684,35 @@
     "sentAt": "2026-11-03T17:00:00.000Z",
     "reason": null,
     "replyRaw": null
+  },
+  {
+    "id": "514415487-u0b4338amge",
+    "conversationId": 514415487,
+    "interviewerName": "Julia Harris",
+    "interviewerSlackId": "U0B4338AMGE",
+    "department": "Dream Lab",
+    "eventName": "Live Practical",
+    "startTime": "2026-11-06 21:30:00+00:00",
+    "date": "Nov 6",
+    "channelId": "U0B4338AMGE",
+    "messageTs": "1794247967.442399",
+    "sentAt": "2026-11-09T18:12:57.174Z",
+    "reason": null,
+    "replyRaw": null
+  },
+  {
+    "id": "514415487-u0ab3t3jhkr",
+    "conversationId": 514415487,
+    "interviewerName": "Josh DiCarlo",
+    "interviewerSlackId": "U0AB3T3JHKR",
+    "department": "Dream Lab",
+    "eventName": "Live Practical",
+    "startTime": "2026-11-06 21:30:00+00:00",
+    "date": "Nov 6",
+    "channelId": "U0AB3T3JHKR",
+    "messageTs": "1794247969.831499",
+    "sentAt": "2026-11-09T18:12:57.174Z",
+    "reason": null,
+    "replyRaw": null
   }
 ]
