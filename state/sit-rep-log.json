@@ -4303,7 +4303,8 @@
     "messageTs": "1790270664.186649",
     "sentAt": "2026-09-24T17:24:34.622Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "494299348-u0bnpny7nuf",
@@ -4363,7 +4364,8 @@
     "messageTs": "1793034395.880709",
     "sentAt": "2026-10-26T17:06:44.325Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "510174936-amit-lumalabs-ai",
@@ -4393,7 +4395,8 @@
     "messageTs": "1787159306.778369",
     "sentAt": "2026-08-19T17:03:19.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "479288372-u0ar9plpdja",
@@ -4408,7 +4411,8 @@
     "messageTs": "1787159298.625849",
     "sentAt": "2026-08-19T17:03:19.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "478198272-u0a8kckvauc",
@@ -4423,7 +4427,8 @@
     "messageTs": "1787159308.714669",
     "sentAt": "2026-08-19T17:03:19.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "480908888-u0a727zgfjr",
@@ -4438,7 +4443,8 @@
     "messageTs": "1787159306.778369",
     "sentAt": "2026-08-19T17:03:19.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "480741938-andrea-lumalabs-ai",
@@ -4468,7 +4474,8 @@
     "messageTs": "1787159298.625849",
     "sentAt": "2026-08-19T17:03:19.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "481911468-u0acdkp008y",
@@ -4483,7 +4490,8 @@
     "messageTs": "1787159301.734419",
     "sentAt": "2026-08-19T17:03:19.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "479288356-caroline-lumalabs-ai",
@@ -4513,7 +4521,8 @@
     "messageTs": "1787159304.177089",
     "sentAt": "2026-08-19T17:03:19.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "481911487-u0acdkp008y",
@@ -4528,7 +4537,8 @@
     "messageTs": "1787159301.734419",
     "sentAt": "2026-08-19T17:03:19.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "480822841-u0ar9plpdja",
@@ -4543,7 +4553,8 @@
     "messageTs": "1787159298.625849",
     "sentAt": "2026-08-19T17:03:19.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "480922584-u0ar9plpdja",
@@ -4558,7 +4569,8 @@
     "messageTs": "1787159298.625849",
     "sentAt": "2026-08-19T17:03:19.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "480135469-u0a8kckvauc",
@@ -4573,7 +4585,8 @@
     "messageTs": "1787332248.496499",
     "sentAt": "2026-08-21T17:10:52.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "483489309-u07l8mterug",
@@ -4588,7 +4601,8 @@
     "messageTs": "1787332246.843439",
     "sentAt": "2026-08-21T17:10:52.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "483489309-u0ahs3yt2q5",
@@ -4603,7 +4617,8 @@
     "messageTs": "1787332243.729809",
     "sentAt": "2026-08-21T17:10:52.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "482566049-u0a727zgfjr",
@@ -4618,7 +4633,8 @@
     "messageTs": "1787332232.486479",
     "sentAt": "2026-08-21T17:10:52.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "483450447-u0ajwab4vt2",
@@ -4633,7 +4649,8 @@
     "messageTs": "1787332241.536139",
     "sentAt": "2026-08-21T17:10:52.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "483479268-u0ajf0khd89",
@@ -4648,7 +4665,8 @@
     "messageTs": "1787332239.378299",
     "sentAt": "2026-08-21T17:10:52.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "480615550-u0a727zgfjr",
@@ -4663,7 +4681,8 @@
     "messageTs": "1787332232.486479",
     "sentAt": "2026-08-21T17:10:52.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "482609926-caroline-lumalabs-ai",
@@ -4723,7 +4742,8 @@
     "messageTs": "1787591350.285389",
     "sentAt": "2026-08-24T17:03:49.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "483342447-u0ad43h4jg1",
@@ -4738,7 +4758,8 @@
     "messageTs": "1787591348.174309",
     "sentAt": "2026-08-24T17:03:49.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "480922590-u0a727zgfjr",
@@ -4753,7 +4774,8 @@
     "messageTs": "1787591341.191569",
     "sentAt": "2026-08-24T17:03:49.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "483207191-u0arhugnxg9",
@@ -4768,7 +4790,8 @@
     "messageTs": "1787591345.928739",
     "sentAt": "2026-08-24T17:03:49.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "483489288-u0arhugnxg9",
@@ -4783,7 +4806,8 @@
     "messageTs": "1787591345.928739",
     "sentAt": "2026-08-24T17:03:49.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "483474892-u0a727zgfjr",
@@ -4798,7 +4822,8 @@
     "messageTs": "1787591341.191569",
     "sentAt": "2026-08-24T17:03:49.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "483609954-u0aaq4md5g8",
@@ -4813,7 +4838,8 @@
     "messageTs": "1787591343.496819",
     "sentAt": "2026-08-24T17:03:49.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "483941090-u0a727zgfjr",
@@ -4828,7 +4854,8 @@
     "messageTs": "1787591341.191569",
     "sentAt": "2026-08-24T17:03:49.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "489450833-u0arhugnxg9",
@@ -4843,7 +4870,8 @@
     "messageTs": "1789060346.570039",
     "sentAt": "2026-09-10T17:12:35.362Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "489685201-u09n9s0pxh8",
@@ -4858,7 +4886,8 @@
     "messageTs": "1789060348.690829",
     "sentAt": "2026-09-10T17:12:35.362Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "487086265-u0arhugnxg9",
@@ -4873,7 +4902,8 @@
     "messageTs": "1789060346.570039",
     "sentAt": "2026-09-10T17:12:35.362Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "487086264-u0918gghk96",
@@ -4888,7 +4918,8 @@
     "messageTs": "1789060344.060819",
     "sentAt": "2026-09-10T17:12:35.362Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "487086272-u0abl0cpam8",
@@ -4903,7 +4934,8 @@
     "messageTs": "1789060341.538479",
     "sentAt": "2026-09-10T17:12:35.362Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "488725227-u0ac1j651gf",
@@ -4918,7 +4950,8 @@
     "messageTs": "1789060339.083579",
     "sentAt": "2026-09-10T17:12:35.362Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "497676445-u0blsp04zdg",
@@ -4933,7 +4966,8 @@
     "messageTs": "1790702065.259719",
     "sentAt": "2026-09-29T17:14:32.209Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "500326969-u09rv2s0wpj",
@@ -4948,7 +4982,8 @@
     "messageTs": "1790702062.965669",
     "sentAt": "2026-09-29T17:14:32.209Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "497905436-u0acdkn2v0q",
@@ -4963,7 +4998,8 @@
     "messageTs": "1790702060.792769",
     "sentAt": "2026-09-29T17:14:32.209Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "497905436-u0bnpny7nuf",
@@ -4978,7 +5014,8 @@
     "messageTs": "1790702058.701599",
     "sentAt": "2026-09-29T17:14:32.209Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "497107023-u0arhugnxg9",
@@ -4993,7 +5030,8 @@
     "messageTs": "1790702056.483969",
     "sentAt": "2026-09-29T17:14:32.209Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "498845349-u0arhugnxg9",
@@ -5008,7 +5046,8 @@
     "messageTs": "1790874830.810969",
     "sentAt": "2026-10-01T17:14:01.752Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "498579834-u0arhugnxg9",
@@ -5023,7 +5062,8 @@
     "messageTs": "1790874830.810969",
     "sentAt": "2026-10-01T17:14:01.752Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "498815374-u0acdkq8t6c",
@@ -5053,7 +5093,8 @@
     "messageTs": "1790874832.845459",
     "sentAt": "2026-10-01T17:14:01.752Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "498815370-u0arhugnxg9",
@@ -5068,7 +5109,8 @@
     "messageTs": "1790874830.810969",
     "sentAt": "2026-10-01T17:14:01.752Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "497905451-u0abl0cpam8",
@@ -5083,7 +5125,8 @@
     "messageTs": "1790874828.462789",
     "sentAt": "2026-10-01T17:14:01.752Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "500557299-u0abl0cpam8",
@@ -5098,7 +5141,8 @@
     "messageTs": "1790874828.462789",
     "sentAt": "2026-10-01T17:14:01.752Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "500985812-amit-lumalabs-ai",
@@ -5128,7 +5172,8 @@
     "messageTs": "1790961225.070239",
     "sentAt": "2026-10-02T17:13:55.189Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "501030665-amit-lumalabs-ai",
@@ -5158,7 +5203,8 @@
     "messageTs": "1791220452.842189",
     "sentAt": "2026-10-05T17:14:18.955Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "495384203-u0b46h3k866",
@@ -5173,7 +5219,8 @@
     "messageTs": "1791220450.721969",
     "sentAt": "2026-10-05T17:14:18.955Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "495384204-u0alhjhg9tp",
@@ -5188,7 +5235,8 @@
     "messageTs": "1791220448.569169",
     "sentAt": "2026-10-05T17:14:18.955Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "495384204-u0bnpny7nuf",
@@ -5203,7 +5251,8 @@
     "messageTs": "1791220446.448909",
     "sentAt": "2026-10-05T17:14:18.955Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "498830397-u0ahh9btte0",
@@ -5218,7 +5267,8 @@
     "messageTs": "1791220444.170039",
     "sentAt": "2026-10-05T17:14:18.955Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "495384206-u0abl0cpam8",
@@ -5233,7 +5283,8 @@
     "messageTs": "1791220441.831419",
     "sentAt": "2026-10-05T17:14:18.955Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "500557298-caroline-lumalabs-ai",
@@ -5263,7 +5314,8 @@
     "messageTs": "1791306800.464849",
     "sentAt": "2026-10-06T17:13:55.257Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "497369026-u0c3ubabr40",
@@ -5278,7 +5330,8 @@
     "messageTs": "1791306802.703559",
     "sentAt": "2026-10-06T17:13:55.257Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "497369031-u0abl0cpam8",
@@ -5293,7 +5346,8 @@
     "messageTs": "1791306800.464849",
     "sentAt": "2026-10-06T17:13:55.257Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "503558266-u0abl0cpam8",
@@ -5308,7 +5362,8 @@
     "messageTs": "1791393179.453979",
     "sentAt": "2026-10-07T17:13:08.559Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "500940152-u0arhugnxg9",
@@ -5323,7 +5378,8 @@
     "messageTs": "1791565956.233139",
     "sentAt": "2026-10-09T17:12:41.283Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "502984437-u0arhugnxg9",
@@ -5338,7 +5394,8 @@
     "messageTs": "1791997969.334129",
     "sentAt": "2026-10-14T17:12:53.969Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "505205312-u0arhugnxg9",
@@ -5353,7 +5410,8 @@
     "messageTs": "1791997969.334129",
     "sentAt": "2026-10-14T17:12:53.969Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "505095821-u0bcf1mgdmj",
@@ -5368,7 +5426,8 @@
     "messageTs": "1792084373.677389",
     "sentAt": "2026-10-15T17:07:00.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "502043347-jay-gurudevan-lumalabs-ai",
@@ -5398,7 +5457,8 @@
     "messageTs": "1792170764.883659",
     "sentAt": "2026-10-16T17:13:11.811Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "506838484-u09rv2s0wpj",
@@ -5413,7 +5473,8 @@
     "messageTs": "1792170764.883659",
     "sentAt": "2026-10-16T17:13:11.811Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "501481736-u0ar9plpdja",
@@ -5428,7 +5489,8 @@
     "messageTs": "1792516093.758009",
     "sentAt": "2026-10-20T17:08:18.292Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "502390130-scott-lumalabs-ai",
@@ -5548,7 +5610,8 @@
     "messageTs": "1793207710.593699",
     "sentAt": "2026-10-28T17:15:21Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "504867404-u0b8wlagq05",
@@ -5608,7 +5671,8 @@
     "messageTs": "1793643236.267399",
     "sentAt": "2026-11-02T18:14:00.619Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "514706851-u0ab3t3jhkr",
@@ -5623,7 +5687,8 @@
     "messageTs": "1793643236.704479",
     "sentAt": "2026-11-02T18:14:00.619Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "513935671-u0a0rndmf60",
@@ -5638,7 +5703,8 @@
     "messageTs": "1793729496.221949",
     "sentAt": "2026-11-03T17:00:00.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "513935673-u0b4338amge",
@@ -5653,7 +5719,8 @@
     "messageTs": "1793729498.804379",
     "sentAt": "2026-11-03T17:00:00.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "513935670-u0b4338amge",
@@ -5668,7 +5735,8 @@
     "messageTs": "1793729498.804379",
     "sentAt": "2026-11-03T17:00:00.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "513935670-u0ab3t3jhkr",
@@ -5683,7 +5751,8 @@
     "messageTs": "1793729500.723539",
     "sentAt": "2026-11-03T17:00:00.000Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   },
   {
     "id": "514415487-u0b4338amge",
@@ -5697,8 +5766,8 @@
     "channelId": "U0B4338AMGE",
     "messageTs": "1794247967.442399",
     "sentAt": "2026-11-09T18:12:57.174Z",
-    "reason": null,
-    "replyRaw": null
+    "reason": "other",
+    "replyRaw": "the live practical doesnt make sense to have a video on it as the editor is working by themselves"
   },
   {
     "id": "514415487-u0ab3t3jhkr",
@@ -5713,6 +5782,7 @@
     "messageTs": "1794247969.831499",
     "sentAt": "2026-11-09T18:12:57.174Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   }
 ]
