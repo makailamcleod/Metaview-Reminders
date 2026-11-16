@@ -5784,5 +5784,20 @@
     "reason": null,
     "replyRaw": null,
     "rawReplyText": null
+  },
+  {
+    "id": "514435135-u04932wgge8",
+    "conversationId": 514435135,
+    "interviewerName": "Thomas Neff",
+    "interviewerSlackId": "U04932WGGE8",
+    "department": "Inference Compute",
+    "eventName": "Hiring Manager Screen",
+    "startTime": "2026-11-13 10:00:00+00:00",
+    "date": "Nov 13",
+    "channelId": "U04932WGGE8",
+    "messageTs": "1794852779.798459",
+    "sentAt": "2026-11-16T18:13:06.445Z",
+    "reason": null,
+    "replyRaw": null
   }
 ]
