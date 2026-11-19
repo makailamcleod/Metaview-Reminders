@@ -5799,5 +5799,35 @@
     "sentAt": "2026-11-16T18:13:06.445Z",
     "reason": "other",
     "replyRaw": "she dropped out of the pipeline according to devin so didn’t show"
+  },
+  {
+    "id": "523319097-u0b4338amge",
+    "conversationId": 523319097,
+    "interviewerName": "Julia Harris",
+    "interviewerSlackId": "U0B4338AMGE",
+    "department": "Dream Lab",
+    "eventName": "Hiring Manager Screen",
+    "startTime": "2026-11-18 23:00:00+00:00",
+    "date": "Nov 18",
+    "channelId": "U0B4338AMGE",
+    "messageTs": "1795111914.691749",
+    "sentAt": "2026-11-19T18:12:03.585Z",
+    "reason": null,
+    "replyRaw": null
+  },
+  {
+    "id": "523319097-u0ab3t3jhkr",
+    "conversationId": 523319097,
+    "interviewerName": "Josh DiCarlo",
+    "interviewerSlackId": "U0AB3T3JHKR",
+    "department": "Dream Lab",
+    "eventName": "Hiring Manager Screen",
+    "startTime": "2026-11-18 23:00:00+00:00",
+    "date": "Nov 18",
+    "channelId": "U0AB3T3JHKR",
+    "messageTs": "1795111917.458059",
+    "sentAt": "2026-11-19T18:12:03.585Z",
+    "reason": null,
+    "replyRaw": null
   }
 ]
