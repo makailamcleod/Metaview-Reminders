@@ -5812,8 +5812,8 @@
     "channelId": "U0B4338AMGE",
     "messageTs": "1795111914.691749",
     "sentAt": "2026-11-19T18:12:03.585Z",
-    "reason": null,
-    "replyRaw": null
+    "reason": "other",
+    "replyRaw": "i didnt screen him"
   },
   {
     "id": "523319097-u0ab3t3jhkr",
@@ -5828,6 +5828,7 @@
     "messageTs": "1795111917.458059",
     "sentAt": "2026-11-19T18:12:03.585Z",
     "reason": null,
-    "replyRaw": null
+    "replyRaw": null,
+    "rawReplyText": null
   }
 ]
